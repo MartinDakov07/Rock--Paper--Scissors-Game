@@ -1,2 +1,1 @@
-# Rock, Paper, Scissors Game
- First self-made game!
+This is my first ever self-created game! Everybody knows this game, but for those who don't remember i will explain the rules: You choose between rock, paper or scissors. The computer is going to choose one of them too. Based on what you choose manages whether you won or not. You have to remember that rock beats scissors, paper beats rock, and scissors beats paper. First to Win 3 times wins the game!
