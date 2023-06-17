@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.exe
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.deps.json
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.runtimeconfig.json
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.runtimeconfig.dev.json
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.dll
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\bin\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.pdb
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.AssemblyInfo.cs
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.dll
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.pdb
+C:\Users\User\source\repos\Rock, Paper, Scissors Game\Rock, Paper, Scissors Game\obj\Debug\netcoreapp3.1\Rock, Paper, Scissors Game.genruntimeconfig.cache
